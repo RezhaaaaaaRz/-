@@ -10,7 +10,7 @@ Firda's Space adalah blog pribadi yang menampilkan galeri foto, cerita panjang, 
 - Animasi saat scroll menggunakan AOS (Animate on Scroll).
 
 ## Struktur Folder:
-
+/Firda-Space ├── index.html # Halaman utama website ├── style.css # File CSS untuk styling website ├── script.js # File JavaScript untuk interaksi dan animasi ├── /images # Folder tempat foto-foto ├── photo1.jpg # Foto pertama di galeri ├── photo2.jpg # Foto kedua di galeri └── /icons # Folder untuk ikon sosial media (Instagram) └── instagram-icon.svg # Ikon Instagram
 
 
 ## Cara Menjalankan Website:
