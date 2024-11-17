@@ -111,8 +111,15 @@ footer .social-icon {
     padding: 10px;
 }
 
-/* Hover Effect on Instagram Icon */
-footer .social-media a:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease-in-out;
+/* Social Media Link */
+.social-link {
+  text-decoration: none;
+  color: #0073e6; /* Warna biru elegan */
+  font-weight: bold;
+  transition: color 0.3s ease;
 }
+
+.social-link:hover {
+  color: #005bb5; /* Warna saat hover */
+}
+
